@@ -1,0 +1,171 @@
+body{
+
+}
+#top-header{
+padding: 30px;
+border-bottom: 2px solid #E7E7E7;
+}
+.logo{
+
+}
+.logo img{
+
+}
+.logo img images{
+
+}
+.logo span{
+       font-size: 25px;
+    margin-left: 10px;
+    font-weight: 600;
+    vertical-align: middle;
+}
+#twitter{
+	position: relative;
+}
+#cursor {
+    position: absolute;
+    top: 85%;
+    left: 65%;
+    transform: translate(-50%,-50%);
+}
+.icon span{
+       position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-25%, 50%);;
+}
+
+
+#bottom-header{
+
+}
+.navbar{
+	}
+
+#header{
+
+}
+.bg-img{
+  background-image: url(../images/slider_background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+   
+
+
+}
+.image{
+   
+transform: translateY(60px);
+}
+.image img{
+	
+	
+margin: 0 auto;
+}
+#middle-section{
+	
+
+}/*
+#middle-section p{
+max-width: 700px;
+
+margin: 0 auto;
+
+
+}*/
+
+.text p {
+    text-align: center;
+    padding: 120px 0;
+}
+.button{
+	text-align: center;
+}
+.btn-custom {
+    margin-top: -137px;
+}
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    background: #2ECC71;
+    color: #fff;
+    padding: 10px 10px;
+    margin-top: 15px;
+
+
+}
+.vedio_section{
+    background: #EFEFEF;
+    padding: 30px;
+}
+.vedio_img{
+    position: relative;
+}
+.auto_play{
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    transform: translate(-50%,50%);
+}
+.vedio_img img{}
+.vedio_content{}
+.vedio_content h2{
+    margin: 0;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+}
+.vedio_content p{}
+.ready_section{
+    background: #332F30;
+    color: #fff;
+    padding: 36px 0;
+}
+.ready{}
+.ready h2{
+    margin: 0;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 50px;
+}
+.footer_section{
+    padding: 15px 0px;
+}
+.copy_right{}
+.copy_right p{
+    margin: 0;
+    text-align: center;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+.footer_menu{}
+.footer_menu ul{
+    margin: 0;
+    text-align: center;
+}
+.footer_menu ul li{}
+.footer_menu ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
